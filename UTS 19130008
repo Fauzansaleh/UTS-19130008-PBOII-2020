@@ -1,0 +1,29 @@
+public class UTS {
+public static video main(String[] args) {
+class M16 turunan dari class Senjata
+	public class M16 extends Senjata {
+	/*extends = keyword inheritance ,
+ * bahwa kelas M16 adalah kelas anak dari kelas induk Senjata.
+	 *
+ */
+public void tembak (){
+System.out.println("M16 = Trrrrrr Trrrrrrrrrr Trrrrr !!! ");
+	}
+}
+
+class Bazhoka merupakan turunan dari class Senjata
+
+public class Bazhoka extends Senjata {
+public void tembak (){
+System.out.println(“Bazoka = Booooomm Booooommmm Booooomm !!!”);
+}
+
+class induk Senjata
+
+	public class Senjata {// kelas induk
+	  
+	public void tembak(){
+	 System.out.println("Door Dorrr Dorrr");
+  
+	}
+	}
